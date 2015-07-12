@@ -79,7 +79,7 @@
 //
 // XXX
 //
-package fuse
+package fuse // import "sigint.ca/fuse"
 
 // BUG(rsc): The mount code for FreeBSD has not been written yet.
 
